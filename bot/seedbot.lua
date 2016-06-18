@@ -221,16 +221,19 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {144658773},--Sudo users                               
+    sudo_users = {142453648},--Sudo users                               
   disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [groupsecurity - Open Source
 An advance Administration bot based on yagop/telegram-bot 
-
-اینجا کلا پاک شده!
-اگه با سودو کار داری
-@yellowhat
+A best Anti spam open Sourced To
+developed and found
+by
+@dan1al_ak
+--
+--
 ]],
+
     help_text_realm = [[
 Realm Commands:
 
